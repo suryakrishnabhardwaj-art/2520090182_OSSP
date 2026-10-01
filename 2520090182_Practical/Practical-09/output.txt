@@ -1,0 +1,2 @@
+This output is redirected from standard output to output.txt
+dup2() successfully redirected stdout.
