@@ -1,0 +1,2 @@
+Linux Output Redirection Test
+Second line added using append redirection

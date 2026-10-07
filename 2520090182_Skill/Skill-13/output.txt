@@ -1,0 +1,3 @@
+Output redirection successful.
+This message is written into output.txt.
+File handling and stdout redirection tested successfully.
